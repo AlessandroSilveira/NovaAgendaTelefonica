@@ -1,0 +1,3 @@
+C:\source\NovaAgendaTelefonica\5-Infra\5.1-Data\NovaAgendaTelefonica.Infra.Data\bin\Debug\netstandard2.0\NovaAgendaTelefonica.Infra.Data.deps.json
+C:\source\NovaAgendaTelefonica\5-Infra\5.1-Data\NovaAgendaTelefonica.Infra.Data\obj\Debug\netstandard2.0\NovaAgendaTelefonica.Infra.Data.csproj.CoreCompileInputs.cache
+C:\source\NovaAgendaTelefonica\5-Infra\5.1-Data\NovaAgendaTelefonica.Infra.Data\obj\Debug\netstandard2.0\NovaAgendaTelefonica.Infra.Data.AssemblyInfo.cs
